@@ -30,3 +30,17 @@ This is a set of community contributes modifications to [OpenLand](https://www.u
 ## License
 
 Everything in **OpenLand Mods** is under the MIT License. So, you can virtually do anything with it.
+
+
+
+
+
+
+## READ THIS!!!: SACS Note.
+
+Currently, the master branch is generally outdated, right now as of typing this, there is two branches, DEV-Stylized which is meant for cartoony stylized clouds which wont have a weather system for a while, and then theres DEV-Realistic which is supposed to be more realistic with a weather system, im expecting DEV-Realistic to be finished before the stylized version.
+
+
+
+
+and thats it for now.
